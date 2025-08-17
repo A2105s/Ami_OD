@@ -1,0 +1,99 @@
+{
+  "Programs": {
+    "B.Tech CSE": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Wednesday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Wednesday","time":"16:15-17:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"14:15-15:10"}
+          ],
+          "Labs": []
+        },
+        "B": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Thursday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Wednesday","time":"16:15-17:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"14:15-15:10"}
+          ],
+          "Labs": []
+        },
+        "C": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Wednesday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Friday","time":"16:15-17:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Thursday","time":"15:15-16:10"}
+          ],
+          "Labs": []
+        },
+        "D": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Thursday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Wednesday","time":"16:15-17:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"15:15-16:10"}
+          ],
+          "Labs": []
+        }
+      }
+    },
+
+    "BCA": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Wednesday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Monday","time":"17:15-18:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"16:15-17:10"}
+          ],
+          "Labs": []
+        },
+        "B": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Thursday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Monday","time":"17:15-18:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"17:15-18:10"}
+          ],
+          "Labs": []
+        }
+      }
+    },
+
+    "B.Sc CS": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Wednesday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Monday","time":"12:15-13:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"14:15-15:10"}
+          ],
+          "Labs": []
+        }
+      }
+    },
+
+    "B.Tech IT": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Thursday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Wednesday","time":"12:15-13:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Friday","time":"13:15-14:10"}
+          ],
+          "Labs": []
+        },
+        "B": {
+          "Courses": [
+            {"subject_code":"LUNCH","subject_name":"Lunch","faculty":"","faculty_code":"","day":"Wednesday","time":"13:15-14:10"},
+            {"subject_code":"LIB101","subject_name":"Library","faculty":"","faculty_code":"","day":"Wednesday","time":"11:15-12:10"},
+            {"subject_code":"MIN201","subject_name":"Minor Elective","faculty":"Dr. Dept","faculty_code":"","day":"Tuesday","time":"17:15-18:10"}
+          ],
+          "Labs": []
+        }
+      }
+    }
+  }
+}

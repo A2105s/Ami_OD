@@ -1,0 +1,2120 @@
+{
+  "Programs": {
+    "B.Tech CSE": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {
+              "subject_code": "MAT 301",
+              "subject_name": "AM-III (Applied Mathematics-III)",
+              "faculty": "RMK",
+              "faculty_code": "RMK",
+              "day": "Monday",
+              "time": "09:15-10:10"
+            },
+            {
+              "subject_code": "CSE 302, CSE 202",
+              "subject_name": "DSC (Data Structures through C++)",
+              "faculty": "STA",
+              "faculty_code": "STA",
+              "day": "Monday",
+              "time": "10:15-11:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LUNCH",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "FLU 344",
+              "subject_name": "FL-III (French-III)",
+              "faculty": "NLT",
+              "faculty_code": "NLT",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "CSE SPEC. (CSE Specialization)",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LIBRARY/CCA",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "16:15-17:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "CSE SPEC. (CSE Specialization)",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "09:15-10:10"
+            },
+            {
+              "subject_code": "BSU 341",
+              "subject_name": "CS-III (Communication Skills-III)",
+              "faculty": "ASM",
+              "faculty_code": "ASM",
+              "day": "Tuesday",
+              "time": "10:15-11:10"
+            },
+            {
+              "subject_code": "ECE 306",
+              "subject_name": "DELD (Digital Electronics and Logic Design)",
+              "faculty": "AKP",
+              "faculty_code": "AKP",
+              "day": "Tuesday",
+              "time": "11:15-12:10"
+            },
+            {
+              "subject_code": "MAT 301",
+              "subject_name": "AM-III (Applied Mathematics-III)",
+              "faculty": "RMK",
+              "faculty_code": "RMK",
+              "day": "Tuesday",
+              "time": "11:15-12:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LUNCH",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "CSE 302, CSE 202",
+              "subject_name": "DSC (Data Structures through C++)",
+              "faculty": "STA",
+              "faculty_code": "STA",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "CSE302",
+              "subject_name": "PP (Python Programming)",
+              "faculty": "ASK",
+              "faculty_code": "ASK",
+              "day": "Tuesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LIBRARY/CCA",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "16:15-17:10"
+            },
+            {
+              "subject_code": "ECE 306",
+              "subject_name": "DELD (Digital Electronics and Logic Design)",
+              "faculty": "AKP",
+              "faculty_code": "AKP",
+              "day": "Wednesday",
+              "time": "09:15-10:10"
+            },
+            {
+              "subject_code": "CSE 304",
+              "subject_name": "DBMS (Database Management Systems)",
+              "faculty": "VKC",
+              "faculty_code": "VKC",
+              "day": "Wednesday",
+              "time": "10:15-11:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LUNCH",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "CSE302",
+              "subject_name": "PP (Python Programming)",
+              "faculty": "ASK",
+              "faculty_code": "ASK",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "CSE SPEC. (CSE Specialization)",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "CSE 302/CSE 202",
+              "subject_name": "DSC (Data Structures through C++)",
+              "faculty": "STA",
+              "faculty_code": "STA",
+              "day": "Wednesday",
+              "time": "16:15-17:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "CSE SPEC. (CSE Specialization)",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "09:15-10:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "CSE SPEC. (CSE Specialization)",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "10:15-11:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LUNCH",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "CSE 304",
+              "subject_name": "DBMS (Database Management Systems)",
+              "faculty": "VKC",
+              "faculty_code": "VKC",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "CSE302",
+              "subject_name": "PP (Python Programming)",
+              "faculty": "ASK",
+              "faculty_code": "ASK",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "ECE 306",
+              "subject_name": "DELD (Digital Electronics and Logic Design)",
+              "faculty": "AKP",
+              "faculty_code": "AKP",
+              "day": "Thursday",
+              "time": "16:15-17:10"
+            },
+            {
+              "subject_code": "MAT 301",
+              "subject_name": "AM-III (Applied Mathematics-III)",
+              "faculty": "RMK",
+              "faculty_code": "RMK",
+              "day": "Friday",
+              "time": "09:15-10:10"
+            },
+            {
+              "subject_code": "BSU 343",
+              "subject_name": "BS-III (Behavioural Science-III)",
+              "faculty": "PRC",
+              "faculty_code": "PRC",
+              "day": "Friday",
+              "time": "10:15-11:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LUNCH",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BSU 341",
+              "subject_name": "CS-III (Communication Skills-III)",
+              "faculty": "ASM",
+              "faculty_code": "ASM",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "CSE 304",
+              "subject_name": "DBMS (Database Management Systems)",
+              "faculty": "VKC",
+              "faculty_code": "VKC",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "",
+              "subject_name": "LIBRARY/CCA",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "16:15-17:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "ECE 326",
+              "subject_name": "DELD LAB (Digital Electronics and Logic Design Lab)",
+              "faculty": "AKP",
+              "faculty_code": "AKP",
+              "day": "Monday",
+              "time": "11:15-12:10",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "CSE 322",
+              "subject_name": "PP LAB (Python Programming Lab)",
+              "faculty": "NDT",
+              "faculty_code": "NDT",
+              "day": "Monday",
+              "time": "11:15-12:10",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "CSE 324",
+              "subject_name": "DBMS LAB (Database Management Systems Lab)",
+              "faculty": "JTS",
+              "faculty_code": "JTS",
+              "day": "Wednesday",
+              "time": "11:15-12:10",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "CSE 322/CSE 222",
+              "subject_name": "DSC LAB (Data Structures through C++ Lab)",
+              "faculty": "KRO",
+              "faculty_code": "KRO",
+              "day": "Wednesday",
+              "time": "11:15-12:10",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "CSE 222",
+              "subject_name": "DSC++ LAB (Data Structures through C++ Lab)",
+              "faculty": "K",
+              "faculty_code": "K",
+              "day": "Thursday",
+              "time": "11:15-12:10",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "ECE 326",
+              "subject_name": "DELD LAB (Digital Electronics and Logic Design Lab)",
+              "faculty": "AB",
+              "faculty_code": "AB",
+              "day": "Thursday",
+              "time": "11:15-12:10",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "CSE 322",
+              "subject_name": "PP LAB (Python Programming Lab)",
+              "faculty": "NO",
+              "faculty_code": "NO",
+              "day": "Friday",
+              "time": "11:15-12:10",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "CSE 324",
+              "subject_name": "DBMS LAB (Database Management Systems Lab)",
+              "faculty": "BMS",
+              "faculty_code": "BMS",
+              "day": "Friday",
+              "time": "11:15-12:10",
+              "group": "Group 2"
+            }
+          ]
+        },
+        "B": {
+          "Courses": [],
+          "Labs": []
+        },
+        "C": {
+          "Courses": [],
+          "Labs": []
+        },
+        "D": {
+          "Courses": [],
+          "Labs": []
+        },
+        "E": {
+          "Courses": [],
+          "Labs": []
+        }
+      }
+    },
+    "BCA": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {
+              "subject_code": "BCA301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ravi Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA302",
+              "subject_name": "Database Management",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA304",
+              "subject_name": "Operating Systems",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BCA305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BCA306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BCA301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ravi Kumar",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA304",
+              "subject_name": "Operating Systems",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BCA302",
+              "subject_name": "Database Management",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BCA305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BCA306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "BCA303L",
+              "subject_name": "Web Development Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BCA308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BCA303L",
+              "subject_name": "Web Development Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "BCA311L",
+              "subject_name": "Python Programming Lab",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BCA308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            }
+          ]
+        },
+        "B": {
+          "Courses": [
+            {
+              "subject_code": "BCA307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ravi Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA302",
+              "subject_name": "Database Management",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BCA310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BCA309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BCA310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ravi Kumar",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BCA305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA302",
+              "subject_name": "Database Management",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BCA309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BCA304",
+              "subject_name": "Operating Systems",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BCA310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "BCA308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BCA303L",
+              "subject_name": "Web Development Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BCA311L",
+              "subject_name": "Python Programming Lab",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BCA308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "BCA303L",
+              "subject_name": "Web Development Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            }
+          ]
+        }
+      }
+    },
+    "BSA": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {
+              "subject_code": "BSA301",
+              "subject_name": "Financial Accounting",
+              "faculty": "Dr. Anjali Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BSA302",
+              "subject_name": "Cost Accounting",
+              "faculty": "Dr. Rajiv Mehta",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BSA304",
+              "subject_name": "Business Law",
+              "faculty": "Mr. Amit Khanna",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BSA305",
+              "subject_name": "Taxation",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BSA306",
+              "subject_name": "Auditing",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BSA307",
+              "subject_name": "Financial Management",
+              "faculty": "Dr. Rakesh Verma",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BSA309",
+              "subject_name": "Business Communication",
+              "faculty": "Ms. Ananya Das",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "BSA302",
+              "subject_name": "Cost Accounting",
+              "faculty": "Dr. Rajiv Mehta",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BSA305",
+              "subject_name": "Taxation",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BSA301",
+              "subject_name": "Financial Accounting",
+              "faculty": "Dr. Anjali Sharma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BSA304",
+              "subject_name": "Business Law",
+              "faculty": "Mr. Amit Khanna",
+              "faculty_code": "M",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BSA306",
+              "subject_name": "Auditing",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BSA307",
+              "subject_name": "Financial Management",
+              "faculty": "Dr. Rakesh Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "BSA309",
+              "subject_name": "Business Communication",
+              "faculty": "Ms. Ananya Das",
+              "faculty_code": "M",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "BSA305",
+              "subject_name": "Taxation",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "BSA306",
+              "subject_name": "Auditing",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "BSA303L",
+              "subject_name": "Accounting Lab",
+              "faculty": "Ms. Priya Nair",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BSA308L",
+              "subject_name": "Cost Accounting Lab",
+              "faculty": "Mr. Rajesh Iyer",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BSA310L",
+              "subject_name": "Financial Accounting Lab",
+              "faculty": "Dr. Anjali Sharma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "BSA308L",
+              "subject_name": "Cost Accounting Lab",
+              "faculty": "Mr. Rajesh Iyer",
+              "faculty_code": "M",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "BSA303L",
+              "subject_name": "Accounting Lab",
+              "faculty": "Ms. Priya Nair",
+              "faculty_code": "M",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            }
+          ]
+        },
+        "B": {
+          "Courses": [],
+          "Labs": []
+        },
+        "C": {
+          "Courses": [],
+          "Labs": []
+        }
+      }
+    },
+    "B.Tech IT": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {
+              "subject_code": "IT301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ramesh Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT302",
+              "subject_name": "Database Systems",
+              "faculty": "Dr. Sunita Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT304",
+              "subject_name": "Operating Systems",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "IT305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "IT306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "IT301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ramesh Kumar",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT304",
+              "subject_name": "Operating Systems",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "IT302",
+              "subject_name": "Database Systems",
+              "faculty": "Dr. Sunita Sharma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "IT305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "IT306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "IT303L",
+              "subject_name": "Web Technologies Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "IT308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "IT303L",
+              "subject_name": "Web Technologies Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "IT311L",
+              "subject_name": "Python Programming Lab",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "IT308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            }
+          ]
+        },
+        "B": {
+          "Courses": [
+            {
+              "subject_code": "IT307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ramesh Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT302",
+              "subject_name": "Database Systems",
+              "faculty": "Dr. Sunita Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "IT310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "IT309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "IT310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT307",
+              "subject_name": "Web Technologies",
+              "faculty": "Ms. Ritu Singh",
+              "faculty_code": "M",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT301",
+              "subject_name": "Data Structures",
+              "faculty": "Dr. Ramesh Kumar",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "IT305",
+              "subject_name": "Computer Networks",
+              "faculty": "Dr. Sanjay Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT306",
+              "subject_name": "Software Engineering",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT302",
+              "subject_name": "Database Systems",
+              "faculty": "Dr. Sunita Sharma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "IT309",
+              "subject_name": "Python Programming",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "IT304",
+              "subject_name": "Operating Systems",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "IT310",
+              "subject_name": "Computer Organization",
+              "faculty": "Dr. Arjun Nair",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "IT308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "IT303L",
+              "subject_name": "Web Technologies Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "IT311L",
+              "subject_name": "Python Programming Lab",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "IT308L",
+              "subject_name": "DBMS Lab",
+              "faculty": "Mr. Rajesh Kumar",
+              "faculty_code": "M",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "IT303L",
+              "subject_name": "Web Technologies Lab",
+              "faculty": "Mr. Amit Patel",
+              "faculty_code": "M",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            }
+          ]
+        }
+      }
+    },
+    "B.Sc": {
+      "Semester": "3",
+      "Sections": {
+        "A": {
+          "Courses": [
+            {
+              "subject_code": "MATH301",
+              "subject_name": "Mathematics III",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "PHY301",
+              "subject_name": "Physics III",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "ELEC301",
+              "subject_name": "Electronics",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "CS301",
+              "subject_name": "Computer Science",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "PHY301",
+              "subject_name": "Physics III",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "MATH301",
+              "subject_name": "Mathematics III",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "ENV301",
+              "subject_name": "Environmental Science",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "CHEM301",
+              "subject_name": "Chemistry",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "MATH301",
+              "subject_name": "Mathematics III",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "PHY301",
+              "subject_name": "Physics III",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "CS301",
+              "subject_name": "Computer Science",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "CHEM301",
+              "subject_name": "Chemistry",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "ELEC301",
+              "subject_name": "Electronics",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "ENV301",
+              "subject_name": "Environmental Science",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "CS301",
+              "subject_name": "Computer Science",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "TUT301",
+              "subject_name": "Tutorial",
+              "faculty": "Class Teacher",
+              "faculty_code": "C",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "CHEM301L",
+              "subject_name": "Chemistry Lab",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "PHY301L",
+              "subject_name": "Physics Lab",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "CS301L",
+              "subject_name": "Computer Science Lab",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "15:15-16:10",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "ELEC301L",
+              "subject_name": "Electronics Lab",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "MATH301L",
+              "subject_name": "Mathematics Lab",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "ENV301L",
+              "subject_name": "Environmental Science Lab",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10",
+              "group": "Group 1"
+            },
+            {
+              "subject_code": "CHEM301L",
+              "subject_name": "Chemistry Lab",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            }
+          ]
+        },
+        "B": {
+          "Courses": [
+            {
+              "subject_code": "PHY301",
+              "subject_name": "Physics III",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "MATH301",
+              "subject_name": "Mathematics III",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Monday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "CS301",
+              "subject_name": "Computer Science",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "ELEC301",
+              "subject_name": "Electronics",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "MATH301",
+              "subject_name": "Mathematics III",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "PHY301",
+              "subject_name": "Physics III",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Tuesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "ENV301",
+              "subject_name": "Environmental Science",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "CHEM301",
+              "subject_name": "Chemistry",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "ELEC301",
+              "subject_name": "Electronics",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "PHY301",
+              "subject_name": "Physics III",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "LIB101",
+              "subject_name": "Library",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Wednesday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "CS301",
+              "subject_name": "Computer Science",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "CHEM301",
+              "subject_name": "Chemistry",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Thursday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "ELEC301",
+              "subject_name": "Electronics",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "15:15-16:10"
+            },
+            {
+              "subject_code": "ENV301",
+              "subject_name": "Environmental Science",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "09:00-10:00"
+            },
+            {
+              "subject_code": "CS301",
+              "subject_name": "Computer Science",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "10:00-11:00"
+            },
+            {
+              "subject_code": "LUNCH",
+              "subject_name": "Lunch",
+              "faculty": "",
+              "faculty_code": "",
+              "day": "Friday",
+              "time": "13:15-14:10"
+            },
+            {
+              "subject_code": "MIN201",
+              "subject_name": "Minor Elective",
+              "faculty": "Dr. Dept",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "14:15-15:10"
+            },
+            {
+              "subject_code": "TUT301",
+              "subject_name": "Tutorial",
+              "faculty": "Class Teacher",
+              "faculty_code": "C",
+              "day": "Friday",
+              "time": "15:15-16:10"
+            }
+          ],
+          "Labs": [
+            {
+              "subject_code": "CHEM301L",
+              "subject_name": "Chemistry Lab",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Monday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "PHY301L",
+              "subject_name": "Physics Lab",
+              "faculty": "Dr. Anil Kapoor",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "CS301L",
+              "subject_name": "Computer Science Lab",
+              "faculty": "Dr. Meena Iyer",
+              "faculty_code": "D",
+              "day": "Tuesday",
+              "time": "14:15-15:10",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "ELEC301L",
+              "subject_name": "Electronics Lab",
+              "faculty": "Dr. Rajesh Verma",
+              "faculty_code": "D",
+              "day": "Wednesday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "MATH301L",
+              "subject_name": "Mathematics Lab",
+              "faculty": "Dr. Sunil Kumar",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "11:15-12:15",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "ENV301L",
+              "subject_name": "Environmental Science Lab",
+              "faculty": "Dr. Neha Gupta",
+              "faculty_code": "D",
+              "day": "Thursday",
+              "time": "14:15-15:10",
+              "group": "Group 2"
+            },
+            {
+              "subject_code": "CHEM301L",
+              "subject_name": "Chemistry Lab",
+              "faculty": "Dr. Priya Sharma",
+              "faculty_code": "D",
+              "day": "Friday",
+              "time": "11:15-12:15",
+              "group": "Group 1"
+            }
+          ]
+        },
+        "C": {
+          "Courses": [],
+          "Labs": []
+        },
+        "D": {
+          "Courses": [],
+          "Labs": []
+        },
+        "E": {
+          "Courses": [],
+          "Labs": []
+        }
+      }
+    }
+  }
+}

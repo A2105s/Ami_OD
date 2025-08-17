@@ -1,0 +1,62 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage
+.nyc_output
+
+# Next.js
+.next/
+out/
+
+# Production
+build
+dist
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Reports
+reports/
+*.csv
+*.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Scripts (if not needed for deployment)
+scripts/repo-report.mjs
+scripts/generateTimetable.js
+
+# Test files
+test.txt.txt
+create-sample-excel.js
+sample_event.xlsx
+cleanup-plan.md

@@ -1,0 +1,1066 @@
+[
+  {
+    "class_name": "B.Tech (CSE) III A",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:15-11:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "GKV (Dr. Giriraj Kumar)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "BS-III (Behavioural Science - III)",
+          "subject_code": "BSU 343",
+          "faculty": "JGT (Dr. Jangjeet)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "JTS (Jeetendra Singh Bh)",
+          "group": "Group 1"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "DSC++ LAB (Data Structures through C++ Lab)",
+          "subject_code": "CSE 222",
+          "faculty": "GVK (Mr. Gaurav Kumar)",
+          "group": "Group 2"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": "ARM (Arunima Shivhare)",
+          "group": "Group 1"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RSH (Ms. Rashmi Tikar)",
+          "group": "Group 2"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "FL-III (French-III)",
+          "subject_code": "FLU 344",
+          "faculty": "SKR (Dr. Suketu Revar)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "ACN (Dr. Archana Sharn)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parasl)"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "ARM (Arunima Shivhare)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "PP",
+          "group": "Group 1"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "ARM (Arunima Shivhare)",
+          "group": "Group 2"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parasl)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "ACN (Dr. Archana Sharn)"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "GKV (Dr. Giriraj Kumar)"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "GKV (Dr. Giriraj Kumar)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DSC++ LAB (Data Structures through C++ Lab)",
+          "subject_code": "CSE 222",
+          "faculty": "GVK (Mr. Gaurav Kumar)",
+          "group": "Group 1"
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RSH (Ms. Rashmi Tikar)",
+          "group": "Group 2"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ]
+    }
+  },
+  {
+    "class_name": "B.Tech (CSE) III B",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "NST (Ms. Nishtha Parasl)",
+          "group": "Group 1"
+        },
+        {
+          "time": "9:15-10:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "ASK (Dr. Ashok Kr Shriva)",
+          "group": "Group 2"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "ASK (Dr. Ashok Kr Shriva)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "BS-III (Behavioural Science - III)",
+          "subject_code": "BSU 343",
+          "faculty": "R"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parasl)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "FL-III (French-III)",
+          "subject_code": "FLU 344",
+          "faculty": "SKR (Dr. Suketu Revar)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RJT (Dr. Rajat Vaish)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parasl)"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "ASK (Dr. Ashok Kr Shriva)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "AS",
+          "group": "Group 1"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DSC++ LAB (Data Structures through C++ Lab)",
+          "subject_code": "CSE 222",
+          "faculty": "GVK (Mr. Gaurav Kumar)",
+          "group": "Group 2"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "MKS (Dr. Monika Saxen)"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "BS-III (Behavioural Science - III)",
+          "subject_code": "BSU 343",
+          "faculty": "ASK (Dr. Ashok Kr Shriva)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RO",
+          "group": "Group 1"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "NO",
+          "group": "Group 2"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "GVK (Mr. Gaurav Kumar)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "NO",
+          "group": "Group 2"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RO",
+          "group": "Group 1"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RJT (Dr. Rajat Vaish)"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "DSC++ LAB (Data Structures through C++ Lab)",
+          "subject_code": "CSE 222",
+          "faculty": null,
+          "group": "Group 1"
+        },
+        {
+          "time": "9:15-10:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RO",
+          "group": "Group 2"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parasl)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "ASK (Dr. Ashok Kr Shriva)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "MKS (Dr. Monika Saxen)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RJT (Dr. Rajat Vaish)"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ]
+    }
+  },
+  {
+    "class_name": "B.Tech (CSE) III C",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RJT (Dr. Rajat Vaish)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "CS_VF"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "FL-III (French-III)",
+          "subject_code": "FLU 344",
+          "faculty": "BLK (Mr. Balkishan)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE 302/CSE510",
+          "faculty": "ASK (Dr. Ashok Kr Shrivasti)"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parashaı)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE 302/CSE510",
+          "faculty": "ASK (Dr. Ashok Kr Shrivasti)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "CS_VF"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parashaı)"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE 302/CSE510",
+          "faculty": "ASK (Dr. Ashok Kr Shrivasti)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RJT (Dr. Rajat Vaish)"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322/CSE 530",
+          "faculty": "AR",
+          "group": "Group 2"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "RSH (Ms. Rashmi Tikar)"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "DAN (A.Daniel)"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RNK (Dr. Rinkoo Bhatia)",
+          "group": "Group 1"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "JTS (Jeetendra Singh Bhad)",
+          "group": "Group 2"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "JTS (Jeetendra Singh Bhad)",
+          "group": "Group 1"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "NST (Ms. Nishtha Parashaı)"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RJT (Dr. Rajat Vaish)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "BS-III (Behavioural Science - III)",
+          "subject_code": "BSU 343",
+          "faculty": "VSH"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322/CSE 530",
+          "faculty": "ARM (Arunima Shivhare)",
+          "group": "Group 1"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "RNK (Dr. Rinkoo Bhatia)",
+          "group": "Group 2"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "DAN (A.Daniel)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ]
+    }
+  },
+  {
+    "class_name": "B.Tech (CSE) III D",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "STA (Dr. Samta Jain Goyal)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RTK (Dr. Reetu Kumari)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "JTS (Jeetendra Singh Bhad)",
+          "group": "Group 1"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "ARM (Arunima Shivhare)",
+          "group": "Group 2"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam P Dut)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "DSH (Dr. Dinesh Sharma)"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "DSH (Dr. Dinesh Sharma)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DSC++ LAB (Data Structures through C++ Lab)",
+          "subject_code": "CSE 222",
+          "faculty": "KRN (Kiran Tomar)",
+          "group": "Group 1"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "NRD (Dr. Narendra Kr Garg)",
+          "group": "Group 2"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RTK (Dr. Reetu Kumari)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "BS-III (Behavioural Science - III)",
+          "subject_code": "BSU 343",
+          "faculty": "JGT (Dr. Jangjeet)"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam P Dut)"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "AM-III (Applied Mathematics-III)",
+          "subject_code": "MAT 301",
+          "faculty": "RTK (Dr. Reetu Kumari)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "AJY (Dr. Ajay Kr Dadoria)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DBMS (Database Management Systems)",
+          "subject_code": "CSE 304",
+          "faculty": "DSH (Dr. Dinesh Sharma)"
+        },
+        {
+          "time": "12:15-13:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "PP (Python Programming)",
+          "subject_code": "CSE302",
+          "faculty": "GNS (Dr. Ghanshyam P Dut)"
+        },
+        {
+          "time": "15:15-16:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "CSE SPEC. (CSE Specialization)",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "STA (Dr. Samta Jain Goyal)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "CS VF"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DELD LAB (Digital Electronics and Logic Design Lab)",
+          "subject_code": "ECE 326",
+          "faculty": "NRD (Dr. Narendra Kr Garg)",
+          "group": "Group 1"
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DSC++ LAB (Data Structures through C++ Lab)",
+          "subject_code": "CSE 222",
+          "faculty": "KRN (Kiran Tomar)",
+          "group": "Group 2"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "AJY (Dr. Ajay Kr Dadoria)"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "9:15-10:10",
+          "subject": "DSC++ (Data Structures Through C++)",
+          "subject_code": "CSE 202",
+          "faculty": "STA (Dr. Samta Jain Goyal)"
+        },
+        {
+          "time": "10:15-11:10",
+          "subject": "DELD (Digital Electronics and Logic Design)",
+          "subject_code": "ECE 306",
+          "faculty": "AJY (Dr. Ajay Kr Dadoria)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "FL-III (French-III)",
+          "subject_code": "FLU 344",
+          "faculty": "NLT (Dr. Neelam Singh Tom)"
+        },
+        {
+          "time": "11:15-12:10",
+          "subject": "CS-III (Communication Skills - III)",
+          "subject_code": "BSU 341",
+          "faculty": "CS_VF"
+        },
+        {
+          "time": "13:15-14:10",
+          "subject": "LUNCH",
+          "subject_code": null,
+          "faculty": null
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "PP LAB (Python Programming Lab)",
+          "subject_code": "CSE 322",
+          "faculty": "ARM (Arunima Shivhare)",
+          "group": "Group 1"
+        },
+        {
+          "time": "14:15-15:10",
+          "subject": "DBMS LAB (Database Management Systems Lab)",
+          "subject_code": "CSE 324",
+          "faculty": "JTS (Jeetendra Singh Bhad)",
+          "group": "Group 2"
+        },
+        {
+          "time": "16:15-17:10",
+          "subject": "LIBRARY/CCA",
+          "subject_code": null,
+          "faculty": null
+        }
+      ]
+    }
+  }
+]
