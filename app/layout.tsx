@@ -5,21 +5,25 @@ import './globals.css'
 import ClientLayout from './ClientLayout'
 
 export const metadata: Metadata = {
-  title: 'Amity University OD Portal',
+  title: 'Amity OD Portal',
   description: 'Amity University OD Generation Portal',
   icons: {
     icon: [
-      { url: '/amity-coding-club-logo.png' },
-      { url: '/amity-coding-club-logo.png', sizes: '32x32', type: 'image/png' },
-      { url: '/amity-coding-club-logo.png', sizes: '16x16', type: 'image/png' },
+      { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icon-512.png', sizes: '512x512', type: 'image/png' },
     ],
     apple: [
-      { url: '/amity-coding-club-logo.png' },
-      { url: '/amity-coding-club-logo.png', sizes: '180x180', type: 'image/png' },
+      { url: '/apple-icon-180.png', sizes: '180x180', type: 'image/png' },
     ],
-    shortcut: '/amity-coding-club-logo.png',
+    shortcut: '/icon-192.png',
   },
   manifest: '/manifest.json',
+  themeColor: '#0f172a',
+  viewport: {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1,
+  },
 }
 
 export default function RootLayout({
