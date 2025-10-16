@@ -28,8 +28,7 @@ export default function ClientLayout({
 
   return (
     <>
-      {showSplash && <SplashScreen />}
-      {children}
+      {showSplash ? <SplashScreen /> : children}
     </>
   );
 }

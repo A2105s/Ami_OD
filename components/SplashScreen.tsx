@@ -62,7 +62,9 @@ export default function SplashScreen() {
             className="object-contain drop-shadow-2xl"
           />
         </div>
-        
+        <div className="mt-6 text-3xl md:text-4xl font-bold text-white text-center drop-shadow-lg tracking-wide">
+          Amity OD Portal
+        </div>
         {/* Optional: Add loading indicator */}
         <div className="mt-8 flex gap-2">
           <div className="w-2 h-2 bg-white rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></div>

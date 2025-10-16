@@ -46,18 +46,18 @@ async function generateIcons() {
       const { name, size, innerSize } = icon;
       const padding = (size - innerSize) / 2;
 
-      // Create canvas with the logo centered (indigo/blue background to match splash)
+      // Create canvas with the logo centered (white background for Amizone-style look)
       await sharp(inputImage)
         .resize(innerSize, innerSize, { 
           fit: 'contain',
-          background: { r: 67, g: 56, b: 202, alpha: 1 } // Indigo-700 (#4338ca)
+          background: { r: 255, g: 255, b: 255, alpha: 1 } // White background
         })
         .extend({
           top: Math.floor(padding),
           bottom: Math.ceil(padding),
           left: Math.floor(padding),
           right: Math.ceil(padding),
-          background: { r: 67, g: 56, b: 202, alpha: 1 } // Indigo-700 (#4338ca)
+          background: { r: 255, g: 255, b: 255, alpha: 1 } // White background
         })
         .png()
         .toFile(path.join(publicDir, name));
