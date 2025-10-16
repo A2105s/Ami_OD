@@ -18,7 +18,7 @@ export default function HomePage() {
         <div className="container mx-auto px-6 py-3">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
-              <div className="w-16 h-16 flex items-center justify-center rounded-2xl overflow-hidden bg-white/10 backdrop-blur-sm">
+              <div className="w-16 h-16 flex items-center justify-center">
                 <Image 
                   src="/icon-192.png" 
                   alt="Amity University Logo"
@@ -124,7 +124,7 @@ export default function HomePage() {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
-              <div className="w-10 h-10 relative flex items-center justify-center rounded-lg overflow-hidden bg-white/10 backdrop-blur-sm">
+              <div className="w-10 h-10 relative flex items-center justify-center">
                 <Image 
                   src="/icon-192.png" 
                   alt="Amity University"

@@ -1,16 +1,16 @@
+/* eslint-disable @typescript-eslint/no-require-imports */
 const sharp = require('sharp');
-const fs = require('fs');
 const path = require('path');
 
 const inputImage = path.join(__dirname, '../public/amity-coding-club-logo.png');
 const publicDir = path.join(__dirname, '../public');
 
-// Icon sizes to generate
+// Icon sizes to generate (no rounded corners for clean look like Amizone)
 const iconSizes = [
-  { name: 'icon-192.png', size: 192, radius: 42 },      // ~22% radius for rounded corners
-  { name: 'icon-512.png', size: 512, radius: 112 },     // ~22% radius for rounded corners
-  { name: 'apple-icon-180.png', size: 180, radius: 40 }, // Apple recommended
-  { name: 'favicon.ico', size: 32, radius: 7 },         // Small favicon
+  { name: 'icon-192.png', size: 192, radius: 0 },      // No rounded corners
+  { name: 'icon-512.png', size: 512, radius: 0 },     // No rounded corners
+  { name: 'apple-icon-180.png', size: 180, radius: 0 }, // No rounded corners
+  { name: 'favicon.ico', size: 32, radius: 0 },         // Small favicon
 ];
 
 // Maskable icons (with safe zone padding)
@@ -24,29 +24,16 @@ async function generateIcons() {
     // Check if sharp is installed
     console.log('📦 Checking dependencies...');
     
-    // Generate regular icons with rounded corners
+    // Generate regular icons with transparent background (no rounded corners)
     console.log('\n🎨 Generating app icons...');
     for (const icon of iconSizes) {
-      const { name, size, radius } = icon;
-      
-      // Create a rounded rectangle mask
-      const roundedCorners = Buffer.from(
-        `<svg width="${size}" height="${size}">
-          <rect x="0" y="0" width="${size}" height="${size}" rx="${radius}" ry="${radius}" fill="white"/>
-        </svg>`
-      );
+      const { name, size } = icon;
 
       await sharp(inputImage)
         .resize(size, size, { 
           fit: 'contain',
           background: { r: 0, g: 0, b: 0, alpha: 0 } // Transparent background
         })
-        .composite([
-          {
-            input: roundedCorners,
-            blend: 'dest-in'
-          }
-        ])
         .png()
         .toFile(path.join(publicDir, name));
       
@@ -59,18 +46,18 @@ async function generateIcons() {
       const { name, size, innerSize } = icon;
       const padding = (size - innerSize) / 2;
 
-      // Create canvas with the logo centered
+      // Create canvas with the logo centered (indigo/blue background to match splash)
       await sharp(inputImage)
         .resize(innerSize, innerSize, { 
           fit: 'contain',
-          background: { r: 15, g: 23, b: 42, alpha: 1 } // Match theme color
+          background: { r: 67, g: 56, b: 202, alpha: 1 } // Indigo-700 (#4338ca)
         })
         .extend({
           top: Math.floor(padding),
           bottom: Math.ceil(padding),
           left: Math.floor(padding),
           right: Math.ceil(padding),
-          background: { r: 15, g: 23, b: 42, alpha: 1 } // Match theme color
+          background: { r: 67, g: 56, b: 202, alpha: 1 } // Indigo-700 (#4338ca)
         })
         .png()
         .toFile(path.join(publicDir, name));
