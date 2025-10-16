@@ -5,8 +5,21 @@ import './globals.css'
 import ClientLayout from './ClientLayout'
 
 export const metadata: Metadata = {
-  title: 'Amity OD Portal',
+  title: 'Amity University OD Portal',
   description: 'Amity University OD Generation Portal',
+  icons: {
+    icon: [
+      { url: '/amity-coding-club-logo.png' },
+      { url: '/amity-coding-club-logo.png', sizes: '32x32', type: 'image/png' },
+      { url: '/amity-coding-club-logo.png', sizes: '16x16', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/amity-coding-club-logo.png' },
+      { url: '/amity-coding-club-logo.png', sizes: '180x180', type: 'image/png' },
+    ],
+    shortcut: '/amity-coding-club-logo.png',
+  },
+  manifest: '/manifest.json',
 }
 
 export default function RootLayout({
