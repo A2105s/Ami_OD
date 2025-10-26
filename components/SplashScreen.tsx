@@ -47,26 +47,26 @@ export default function SplashScreen() {
       `}</style>
       
       <div 
-        className="flex flex-col items-center justify-center"
+        className="flex flex-col items-center justify-center gap-4 sm:gap-5 md:gap-6"
         style={{
           animation: 'scaleIn 0.6s ease-out forwards',
         }}
       >
-        <div className="relative w-64 h-64 md:w-80 md:h-80">
+        <div className="relative w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-56 lg:h-56">
           <Image
-            src="/icon-512.png"
+              src="/amity-coding-club-logo.png"
             alt="Amity University"
             width={320}
             height={320}
             priority
-            className="object-contain drop-shadow-2xl"
+            className="object-contain"
           />
         </div>
-        <div className="mt-6 text-3xl md:text-4xl font-bold text-white text-center drop-shadow-lg tracking-wide">
+        <div className="mt-4 sm:mt-6 md:mt-8 text-2xl sm:text-3xl md:text-4xl font-bold text-white text-center tracking-wide">
           Amity OD Portal
         </div>
         {/* Optional: Add loading indicator */}
-        <div className="mt-8 flex gap-2">
+        <div className="flex gap-2">
           <div className="w-2 h-2 bg-white rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></div>
           <div className="w-2 h-2 bg-white rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></div>
           <div className="w-2 h-2 bg-white rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></div>

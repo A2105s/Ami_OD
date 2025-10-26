@@ -247,7 +247,7 @@ export default function ODGeneratorPage() {
             <div className="flex items-center space-x-4">
               <div className="w-16 h-16 flex items-center justify-center">
                 <Image
-                  src="/icon-192.png"
+                    src="/amity-coding-club-logo.png"
                   alt="Amity University Logo"
                   width={64}
                   height={64}
@@ -438,7 +438,7 @@ export default function ODGeneratorPage() {
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
               <div className="w-10 h-10 relative flex items-center justify-center">
                 <Image 
-                  src="/icon-192.png" 
+                    src="/amity-coding-club-logo.png" 
                   alt="Amity University"
                   width={40}
                   height={40}
